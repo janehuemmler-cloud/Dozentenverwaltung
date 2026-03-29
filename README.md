@@ -2,7 +2,8 @@
 
 > **WebApp zur optimalen Zuweisung von Dozenten zu Vorlesungen**  
 > Entwickelt für die Provadis Hochschule Frankfurt am Main
-
+Link zum Entwurf der PowerPoint (gerne Feedback und bearbeiten): https://1drv.ms/p/c/2360a8a6dcb39f8b/IQBIQ3lJo_MST5_9oKOMdiZvAcOaz81nPaPQG8RcbVbcMIs
+Link zu meinem Entwurf des Projektberichts (Ich ändere noch einiges): https://1drv.ms/w/c/2360a8a6dcb39f8b/IQBDTR7TeD1pSo4PSTnXj-XbAQ4cQw4eNV6QJqBC6Lp5E2s
 ---
 
 ## Inhaltsverzeichnis
@@ -16,7 +17,6 @@
 7. [Datenmodell](#datenmodell)
 8. [Projektstruktur](#projektstruktur)
 9. [Testdaten](#testdaten)
-10. [Projektbericht des Scrum Masters](#projektbericht-des-scrum-masters)
 
 ---
 
@@ -379,5 +379,3 @@ Die Testdaten decken folgende Szenarien ab:
 - **Geschlossene** Vorlesungen (IT-Sicherheit, Quantencomputing)
 
 ---
-
-PowerPoint Link
